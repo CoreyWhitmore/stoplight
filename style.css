@@ -70,5 +70,17 @@ body {
     margin-top: 60px;
     margin-left: -45px;
     border-radius: 50%;
+    
+}
+
+.red-light:hover{
+    box-shadow: 0 0 40px 10px red;
+}
+
+.yellow-light:hover{
+    box-shadow: 0 0 40px 10px yellow;
+}
+
+.green-light:hover{
     box-shadow: 0 0 40px 10px rgb(0, 201, 0);
 }
